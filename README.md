@@ -11,4 +11,5 @@ Notebooks for exploring the use of databricks on Penn Medicine BioBank (PMBB) da
 1. Link your github account to your databricks account. [Instructions](https://docs.databricks.com/en/repos/get-access-tokens-from-git-provider.html)
 2. Alternatively, just try to commit with an unlinked account and databricks will provide the necessary link/instructions on the fly
 3. To commit additions/changes, click on the three dots in the right of the repo folder, and choose "Git"
-4. Review changes, add a commit message, and press "Commit & Push"
+  * Can also right click on repo name in the menu on left
+5. Review changes, add a commit message, and press "Commit & Push"
