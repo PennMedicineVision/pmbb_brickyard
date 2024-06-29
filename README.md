@@ -1,6 +1,6 @@
 <p align="center"><img src="graphics/pmbb_brick.jpeg" alt="PMBB Brick" width="256" /></p>
 
-# pmbb_brickyard
+# PMBB Brickyard
 Notebooks for exploring the use of databricks on Penn Medicine BioBank (PMBB) data
 
 ## To clone into databricks
